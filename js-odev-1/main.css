@@ -1,0 +1,31 @@
+body {
+    background: black;
+    color: #ffff;
+  }
+.kodluyoruz-h4{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.kadi{
+    color:rgb(255, 255, 255);
+    text-shadow: 
+    0 0 10px #fa0000,
+    0 0 10px #fa0000,
+    0 0 10px #fa0000,
+    0 0 10px #fa0000,
+    0 0 10px #fa0000;
+}
+.clock{
+    color: rgb(255, 255, 255);
+    text-shadow: 
+    0 0 7px rgb(182, 27, 196),
+    0 0 7px rgb(182, 27, 196),
+    0 0 7px rgb(182, 27, 196),
+    0 0 7px rgb(182, 27, 196),
+    0 0 7px rgb(182, 27, 196);
+}
+.text1{
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    color: #cf810a;
+}
+
